@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Slayerus
 - 👀 I’m interested in creating simple projects in C/C++ or JavaScript/TypeScript
-- I'm currently working on my Database library [slayercio-json-database]("https://github.com/Slayerus/slayercio-json-database")
+- I'm currently working on my json database library [**slayercio-json-database**](https://github.com/Slayerus/slayercio-json-database)
