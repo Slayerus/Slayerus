@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @Slayerus
-- 👀 I’m interested in creating simple projects in C/C++ or JavaScript/TypeScript
-- I'm currently working on my json database library [**slayercio-json-database**](https://github.com/Slayerus/slayercio-json-database)
+# 👋 Hi, I’m @Slayerus
+# 👀 I’m creating projects in C/C++ or JavaScript/TypeScript
+
+## My Projects
+
+### [**slayercio-json-database**](https://github.com/Slayerus/slayercio-json-database) on [**npm**](https://www.npmjs.com/package/slayercio-json-database)
+### [**slayercio-logger**](https://github.com/Slayerus/slayercio-logger) on [**npm**](https://www.npmjs.com/package/slayercio-logger)
+
