@@ -1,8 +1,10 @@
 # 👋 Hi, I’m @Slayerus
 # 👀 I’m creating projects in C/C++ or JavaScript/TypeScript
 
+<div align="center">
 ---
 ### 🔖 My Stats
+</div>
 
 [![](https://komarev.com/ghpvc/?username=Slayerus&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
 
