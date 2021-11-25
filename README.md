@@ -3,9 +3,7 @@
 
 ## -------
 
-<div align="center">
 ### 🔖 My Stats
-</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slayerus&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slayerus&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
