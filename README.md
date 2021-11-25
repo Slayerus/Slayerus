@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Slayerus\n👀 I’m creating projects in C/C++ or JavaScript/TypeScript
+# 👋 Hi, I’m @Slayerus <br> 👀 I’m creating projects in C/C++ or JavaScript/TypeScript
 
 
 <div align="center">
